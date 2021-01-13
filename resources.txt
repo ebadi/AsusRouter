@@ -1,0 +1,26 @@
+https://www.asuswrt-merlin.net/
+
+https://www.mdeditor.tw/pl/2NU0/zh-tw
+Modern Vulnerability Research Techniques on Embedded Systems
+
+https://w00tsec.blogspot.com/2014/07/hacking-asus-rt-ac66u-and-preparing-for.html
+
+https://starlabs.sg/advisories/18-20336/
+ASUSWRT Stack Overflow in wanduck.c
+
+
+https://github.com/RMerl/asuswrt-merlin.ng/blob/master/release/src/router/rc/wanduck.c#L2364
+
+url http://192.168.1.1:18017/sadasd
+
+curl http://192.168.1.1:18017/test.ico
+curl: (52) Empty reply from server
+
+
+ curl -v  --header "Host: www.msftconnecttest.com" http://192.168.1.1:18017/connecttest.txt
+ 
+ 
+ 
+ 
+ http://192.168.1.1/httpd_check.xml
+ 
